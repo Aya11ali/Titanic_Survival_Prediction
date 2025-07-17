@@ -78,7 +78,7 @@ This pipeline was applied consistently across training and test datasets to ensu
 ## 📁 Files
 
 - `titanic_survival_prediction.py`: Full end-to-end code including EDA, pipeline, training, prediction.
-- - `train.csv` : The original training dataset downloaded from Kaggle. Contains features and the target variable
+- `train.csv` : The original training dataset downloaded from Kaggle. Contains features and the target variable
 - `test.csv` : The test dataset provided by Kaggle for prediction. It includes the same features as the training data (except for Survived)
 - `submission.csv`: Final predictions on test data for Kaggle. 
 - `README.md`: Project documentation.
